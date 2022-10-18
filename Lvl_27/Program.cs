@@ -1,4 +1,4 @@
-﻿// 1. Принимает число
+// 1. Принимает число
 // 2. Выдает сумму цифр в числе
 Console.WriteLine("Введите число:");
 int num = Convert.ToInt32(Console.ReadLine());
